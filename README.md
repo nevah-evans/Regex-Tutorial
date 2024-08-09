@@ -45,4 +45,4 @@ There's a lot going on there, lets break it down!
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+You can find more of my works and projects on my <a href='https://github.com/nevah-evans'>Github</a>!
