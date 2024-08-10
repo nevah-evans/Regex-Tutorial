@@ -99,3 +99,8 @@ Sometimes you want to search for the actual character that is used in regex, in 
 ## Author
 
 You can find more of my works and projects on my <a href='https://github.com/nevah-evans'>Github</a>!
+
+Sources include: 
+https://stackoverflow.com/
+https://developer.mozilla.org/en-US/
+https://www.w3schools.com/
