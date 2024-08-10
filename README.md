@@ -71,6 +71,8 @@ There are many more metacharacters, checkout <a href="https://www.w3schools.com/
 
 ### The OR Operator
 
+The OR Operator is the same as in regualr javascript "|". Regex can look for (ab|ba) and match with "ab" or "ba". 
+
 ### Flags
 
 Flags are used like filters, you can apply one or have multiple. They add an extra funtionality to your search just as global search and case- insensitivity.
